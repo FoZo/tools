@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-"""List all users and their grants in MySQL"""
+"""List all users and their privileges (grants) in MySQL"""
 
 import sys
 import os.path
